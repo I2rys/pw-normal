@@ -3,7 +3,6 @@
 <h4 align="center">Just a normal plugins searcher module</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/pw-normal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/pw-normal?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/pw-normal"><img src="https://bettercodehub.com/edge/badge/I2rys/pw-normal?branch=main"></a>
 	<a href="https://github.com/I2rys/pw-normal/issues"><img src="https://img.shields.io/github/issues/I2rys/pw-normal.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
